@@ -12,7 +12,7 @@ class Student {
 
 class PrintDetails {
     public void printDetail() {
-        System.out.println("Print Details.");
+        System.out.println("Print All Details.");
     }
 }
 
