@@ -8,7 +8,7 @@ class VehicleInfo {
 
 class Car extends VehicleInfo {
     public void vehicleNumber() {
-        System.out.println("Car Number.");
+        System.out.println("Car Numbers.");
     }
 }
 
